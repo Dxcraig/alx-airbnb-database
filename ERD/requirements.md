@@ -241,9 +241,9 @@ erDiagram
 
 ---
 
-## Textual ER Diagram Representation
+## ER Diagram Representation
 
-
+![AirBnB Database ERD](https://github.com/Dxcraig/alx-airbnb-database/blob/main/ERD/erd.png?raw=true)
 
 ## Indexing Strategy
 
