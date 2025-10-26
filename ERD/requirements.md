@@ -243,7 +243,7 @@ erDiagram
 
 ## ER Diagram Representation
 
-![AirBnB Database ERD](https://github.com/Dxcraig/alx-airbnb-database/blob/main/ERD/erd.png?raw=true)
+![AirBnB Database ERD](./ER_Diagram.png)
 
 ## Indexing Strategy
 
